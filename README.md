@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**anshika075/anshika075** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+##### Anshika Sharma | Aspiring Software Developer 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on enhancing my web development skills and problem-solving abilities for technical interviews.
+- 🌱 I’m currently learning Cloud Computing, and sharpening my DSA skills.
+- 👯 I’m looking to collaborate on open-source projects, innovative web applications, and tech-driven social initiatives.
+- 🤔 I’m looking for help with mastering System Design & Backend Development.
+- 💬 Ask me about HTML, CSS, JavaScript, Data Structures, and Algorithms – I’d love to share my knowledge!
+- 📫 How to reach me:
+- 🔹 LinkedIn – www.linkedin.com/in/anshikasharma10
+- 🔹 Instagram – www.instagram.com/anshikaaa_1010
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love Mandala Art 🎨 – It helps me stay calm and focused, just like debugging code does! 😁
